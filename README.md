@@ -1,0 +1,2 @@
+# manual-eclipse
+for me
